@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyScenes/Menu.unity
+    guid: ba093717c71e63543b99e0287a539009
+  - enabled: 1
+    path: Assets/MyScenes/RaceTrackMenu.unity
+    guid: 62022b73b099f8b49834e5b13fafa1b5
+  - enabled: 1
+    path: Assets/MyScenes/touge.unity
+    guid: 157a91174f1357e4b964f27caae6ece8
+  m_configObjects: {}
